@@ -2,7 +2,7 @@
 
 An interactive Microsoft Excel Data Analytics portfolio project tracking performance, sales trends, pricing behaviors, and customer preferences for a pizza restaurant dataset. 
 
-The original raw dataset was obtained from [Kaggle](https://www.kaggle.com), preprocessed to ensure data integrity, analyzed utilizing Excel Pivot Tables, and visualized through a dynamic, user-friendly Executive Dashboard.
+The original raw dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset), preprocessed to ensure data integrity, analyzed utilizing Excel Pivot Tables, and visualized through a dynamic, user-friendly Executive Dashboard.
 
 ## 📌 Project Objectives
 The primary purpose of this analysis is to evaluate key operational metrics and answer fundamental business questions:
