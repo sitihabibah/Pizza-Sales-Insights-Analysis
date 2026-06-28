@@ -54,6 +54,26 @@ The dynamic layout is powered entirely by synchronized **Pivot Tables** and inte
 
 ---
 
+## 💼 Business Recommendations
+
+Based on the analytical findings from this dashboard, the following 
+strategic actions are recommended:
+
+**1. Upselling & Bundling Strategy**
+The current Average Order Value (AOV) of $41.3 per order presents a clear upselling opportunity. Introducing combo bundles — pairing top-selling pizzas (Classic Deluxe, BBQ Chicken) with beverages or desserts — could realistically push AOV toward the $50+ range without requiring additional customer acquisition costs.
+
+**2. Seasonal Marketing Campaign**
+Revenue data shows consistent demand spikes in May and July. Marketing budgets should be concentrated in these peak months through targeted promotions, limited-time offers, or loyalty rewards — rather than being spread evenly across the year.
+
+**3. Menu & Inventory Prioritization**
+The Classic category alone accounts for 32% of total sales volume. Supply chain and inventory planning should proportionally prioritize raw materials for the top 3 menu drivers — The Classic Deluxe Pizza, The Barbecue Chicken Pizza, and The Hawaiian Pizza — to minimize stockout risk during peak periods.
+
+**4. Low-Performer Review**
+A deeper review of the bottom 5 pizzas by revenue contribution is recommended. Underperforming menu items occupy kitchen resources and ingredient budgets without proportional return — candidates for reformulation, repricing, or removal from the active menu.
+
+
+---
+
 ## 📂 Repository Structure
 * **`Dashboard Pivot 2.xlsx`**: The primary working workbook containing clean data tables (`pizza_sales`), intermediate analytical aggregations (`Sales Total`, `Trend`, `Terlaris`, `sales per category`, `Price Analysis`), and the interactive control dashboard interface (`Sheet1`).
 * **`Pizza sales dashboard.jpg`**: A high-resolution layout preview image showcasing the complete interface design, charts, KPI cards, and interactive slicers.
